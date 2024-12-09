@@ -1,0 +1,10 @@
+PersonaPrincipal,Padre1,Madre1,Hermano1,Hermano2
+Padre1,Abuelo1,Abuela1
+Madre1,Abuelo2,Abuela2
+Hermano1,Padre1,Madre1
+Hermano2,Padre1,Madre1
+Abuelo1,,,Tio1
+Abuela1,,,
+Abuelo2,,,
+Abuela2,,,
+Tio1,Abuelo1,Abuela1
